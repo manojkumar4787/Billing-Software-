@@ -1,0 +1,16 @@
+	Welcome Wifi Google Gyan Moll
+ Bill Number : 9768
+ Customer Name : phoolchand
+ Phone Number : 7408609963
+ Customer Email : phool@gmail.com
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ Levis		2		10000
+
+ ===========================================
+ Sub Amount :	Rs.10000.00
+ Tax Amount :	Rs.50.00
+ Total Amount :	Rs.10050.00
+ ===========================================
+
